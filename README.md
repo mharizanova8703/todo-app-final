@@ -20,7 +20,7 @@ npx expo start
 npm run ios
 
 ### Running the app on Android simulator
-npm run Android
+npm run android
 
 
 
