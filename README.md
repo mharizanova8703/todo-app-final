@@ -13,7 +13,7 @@ npx expo start
 - Android Users: https://play.google.com/store/apps/details?id=host.exp.exponent
 
 ## 🖥️ 💻 Interested in testing on a virtual device? You'll need either Android Studio or Xcode installed:
-- Download Android Studio: https://apps.apple.com/app/apple-store/id982107779
+- Download Android Studio: https://developer.android.com/studio/install
 - Download Xcode: https://developer.apple.com/xcode/resources/
 
 ### Running the app on iOS simulator
