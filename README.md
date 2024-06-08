@@ -10,6 +10,8 @@ npx expo start
 
 ### 📱 Want to preview your app on your device? Here's how to download the Expo Go app:
 - iOS Users: https://apps.apple.com/app/apple-store/id982107779
+- ![Screenshot 2024-06-08 at 18 38 55](https://github.com/mharizanova8703/todo-app-final/assets/85656320/2983392a-7880-4374-a83f-2bb60b860470)
+
 - Android Users: https://play.google.com/store/apps/details?id=host.exp.exponent
 
 ## 🖥️ 💻 Interested in testing on a virtual device? You'll need either Android Studio or Xcode installed:
